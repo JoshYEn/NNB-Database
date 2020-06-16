@@ -7,8 +7,9 @@ Total cost of the project consisting of one reactor (PRE KONVOI design):
 
     -   Earlier in December 2010 Brazilian national development bank BNDES
     approved BRL 6.1 billion (\$ 3.6 billion) in financing for Angra 3, covering almost 60% of the then estimated cost of BRL 9.9 billion.
+-   In December 2012 state-owned Caixa Economica Federal bank agreed to lend BRL 3.8 billion (\$1.86 billion) to Eletrobras for completion of the unit. The total estimated cost was then \$7.59 billion.
 
-    -   In December 2012 state-owned Caixa Economica Federal bank agreed to lend BRL 3.8 billion (\$1.86 billion) to Eletrobras for completion of the unit. The total estimated cost was then \$7.59 billion.
+
 
 
 **Costs of main components**
@@ -16,10 +17,14 @@ Total cost of the project consisting of one reactor (PRE KONVOI design):
 
 No data available.
 
+
+
 **Cost drivers**
 ================
 
 No data available.
+
+
 
 **Construction schedule: plans and changes – PRIS data**
 ========================================================
@@ -28,11 +33,16 @@ No data available.
 
 -   Angra 3: 01 Jun 2010 – 13 Sep 2025 (PRIS estimate)
 
+
+
 **Construction schedule changes:**
 
 -   According to press release ([link](https://www.neimagazine.com/news/newsbrazil-reconsiders-completion-of-angra-3-6956581)) in Jan 2019
 
     -   Brazilian Mines and Energy Minister Bento Albuquerque said on 23 January that Brazil hopes to complete its third nuclear plant by 2026, with the help of private investors. Construction of Angra 3 has been suspended since 2015.
+
+
+
 
 -   According to WNA statistics ([link](https://www.world-nuclear.org/information-library/country-profiles/countries-a-f/brazil.aspx))
 
